@@ -1,4 +1,4 @@
-## Hi! I'm Maria João 👾
+# Hi! I'm Maria João 👾
 
 I'm a graphic designer now diving into the world of software development. I'm currently studying at 42 Porto.
   
