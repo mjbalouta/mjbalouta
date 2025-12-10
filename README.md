@@ -8,7 +8,7 @@ I've been enjoying my journey so far! I've been working on a lot of projects and
   
 I'm currently exploring the idea of becoming a full-stack developer, which would allow me to combine the problem solving and creativity skills. 
   
-##  ![](https://geps.dev/progress/60) 42 Porto's Common Core Progress:
+##  ![](https://geps.dev/progress/65) 42 Porto's Common Core Progress:
 
 ✅ **Milestone 0:** [Libft](https://github.com/mjbalouta/Libft)  
 ✅ **Milestone 1:** [printf](https://github.com/mjbalouta/printf), [get_next_line](https://github.com/mjbalouta/get-next-line), Born2BeRoot  
