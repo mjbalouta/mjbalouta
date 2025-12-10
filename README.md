@@ -11,10 +11,10 @@ I'm currently exploring the idea of becoming a full-stack developer, which would
 ##  ![](https://geps.dev/progress/60) 42 Porto's Common Core Progress:
 
 ✅ **Milestone 0:** [Libft](https://github.com/mjbalouta/Libft)  
-✅ **Milestone 1:** [printf](https://github.com/mjbalouta/printf), [get_next_line](https://github.com/mjbalouta/get-next-line), Born2BeRoot
-✅ **Milestone 2:** [so_long](https://github.com/mjbalouta/so-long), [push_swap](https://github.com/mjbalouta/push-swap), [pipex](https://github.com/mjbalouta/pipex), Exam_Rank2    
-✅ **Milestone 3:** [philosophers](https://github.com/mjbalouta/philosophers), [minishell](https://github.com/mjbalouta/minishell), Exam_Rank3  
-🟨 **Milestone 4:** NetPractice, Cub3D, [CPP00-CPP04](https://github.com/mjbalouta/CPP), Exam_Rank4  
+✅ **Milestone 1:** [printf](https://github.com/mjbalouta/printf), [get_next_line](https://github.com/mjbalouta/get-next-line), Born2BeRoot  
+✅ **Milestone 2:** [so_long](https://github.com/mjbalouta/so-long), [push_swap](https://github.com/mjbalouta/push-swap), [pipex](https://github.com/mjbalouta/pipex), Exam2    
+✅ **Milestone 3:** [philosophers](https://github.com/mjbalouta/philosophers), [minishell](https://github.com/mjbalouta/minishell), Exam3  
+🟨 **Milestone 4:** NetPractice, Cub3D, [CPP00-CPP04](https://github.com/mjbalouta/CPP), Exam4  
 🟥 **Milestone 5:** Webserv, Inception, CPP05-CPP09  
 🟥 **Milestone 6:** ft_transcendence  
 
