@@ -22,8 +22,8 @@ I'm currently exploring the idea of becoming a full-stack developer, which would
 <div align="center">
   
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mjbalouta&layout=compact&hide_border=true&bg_color=00000000&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjbalouta&layout=compact&hide_border=true&bg_color=00000000&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mjbalouta&layout=compact&hide_border=true&bg_color=0D1117FF&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjbalouta&layout=compact&hide_border=true&bg_color=0D1117FF&theme=dracula)
 
 <p align="center">
     <img alt="mjbalouta's visitors" src="https://komarev.com/ghpvc/?username=mjbalouta&color=16b8a7&style=flat&label=visitors" />
