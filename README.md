@@ -8,15 +8,15 @@ I've been enjoying my journey so far! I've been working on a lot of projects and
   
 I'm currently exploring the idea of becoming a full-stack developer, which would allow me to combine the problem solving and creativity skills. 
   
-##  ![](https://geps.dev/progress/86) 42 Porto's Common Core Progress:
+##  ![](https://geps.dev/progress/90) 42 Porto's Common Core Progress:
 
 ✅ **Milestone 0:** [Libft](https://github.com/mjbalouta/Libft)  
 ✅ **Milestone 1:** [printf](https://github.com/mjbalouta/printf), [get_next_line](https://github.com/mjbalouta/get-next-line), Born2BeRoot  
 ✅ **Milestone 2:** [so_long](https://github.com/mjbalouta/so-long), [push_swap](https://github.com/mjbalouta/push-swap), [pipex](https://github.com/mjbalouta/pipex), Exam2    
 ✅ **Milestone 3:** [philosophers](https://github.com/mjbalouta/philosophers), [minishell](https://github.com/mjbalouta/minishell), Exam3  
 ✅ **Milestone 4:** NetPractice, [Cub3D](https://github.com/mjbalouta/Cub3D), [CPP00-CPP04](https://github.com/mjbalouta/CPP), Exam4  
-🟨 **Milestone 5:** [Webserv](https://github.com/mjbalouta/webserv), Inception, [CPP05-CPP09](https://github.com/mjbalouta/CPP), Exam5  
-🟥 **Milestone 6:** ft_transcendence, Exam6  
+✅ **Milestone 5:** [Webserv](https://github.com/mjbalouta/webserv), [Inception](https://github.com/mjbalouta/Inception), [CPP05-CPP09](https://github.com/mjbalouta/CPP), Exam5  
+🟨 **Milestone 6:** ft_transcendence, Exam6  
 
 
 <div align="center">
